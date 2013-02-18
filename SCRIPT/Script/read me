@@ -1,0 +1,4 @@
+1)First in a folder(dir) containing all the files remove of hidden files using hiddenRM.sh
+2)Use extractFName.c program to get all the file name in a folder.
+3)Delete . and .. in the ouput file generated named "filenames.txt".
+4)Now run "runningFiles.c" to run convert on all files.
