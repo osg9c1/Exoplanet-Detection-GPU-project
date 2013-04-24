@@ -1,0 +1,81 @@
+
+File name kplr002.txt.out1 contains data for confirmed planet   65.49093070366786
+File name kplr001873918.txt.out1 contains data for confirmed planet   78.07330382847077
+File name kplr008.txt.out1 contains data for confirmed planet   90.84712191115727
+File name kplr003323887.txt.out1 contains data for false planet  0.0
+File name trainmixed.txt.out1 contains data for candidate planet   54.04517001552185
+File name kplr002438502.txt.out1 contains data for false planet  0.0
+File name kplr001026957.txt.out1 contains data for false planet  36.39170610773045
+File name kplr002438513.txt.out1 contains data for false planet  6.177586752149038
+File name kplr007109675.txt.out1 contains data for false planet  10.518863674394058
+File name kplr001871056.txt.out1 contains data for false planet  0.36002999012701264
+File name kplr005.txt.out1 contains data for confirmed planet   76.76799125963937
+File name kplr001725193.txt.out1 contains data for confirmed planet   71.43940625169294
+File name kplr001.txt.out1 contains data for confirmed planet   67.21976253572772
+File name kplr003128793.txt.out1 contains data for false planet  8.274751133908886
+File name kplr002571238.txt.out1 contains data for false planet  0.0
+File name kplr001572353.txt.out1 contains data for confirmed planet   70.56277056277057
+File name kplr010.txt.out1 contains data for false planet  6.258503401360545
+File name kplr003231341.txt.out1 contains data for false planet  0.0
+File name kplr003.txt.out1 contains data for false planet  10.197368421052632
+File name kplr000757450.txt.out1 contains data for false planet  15.333009791886724
+File name trainfile.txt.out1 contains data for confirmed planet   100.0
+File name kplr004077526.txt.out1 contains data for false planet  0.0
+File name kplr012.txt.out1 contains data for false planet  10.679611650485436
+File name kplr002444412.txt.out1 contains data for false planet  0.023012226173066787
+File name kplr003632418.txt.out1 contains data for candidate planet   41.980156217014994
+File name kplr006.txt.out1 contains data for confirmed planet   78.01782673363368
+File name training.txt.out1 contains data for candidate planet   61.24115105267997
+File name kplr003554600.txt.out1 contains data for false planet  0.8821533589685592
+File name kplr001571511.txt.out1 contains data for false planet  0.0
+File name kplr003853673.txt.out1 contains data for candidate planet   48.631531327753905
+File name kplr011.txt.out1 contains data for false planet  8.311688311688311
+File name kplr00382474.txt.out1 contains data for false planet  0.0
+File name kplr003340312.txt.out1 contains data for candidate planet   48.642840986202216
+File name kplr009.txt.out1 contains data for candidate planet   45.8030407556782
+File name kplr003832474.txt.out1 contains data for false planet  0.0
+File name kplr002162635.txt.out1 contains data for false planet  0.39195017481868594
+File name kplr007455287.txt.out1 contains data for confirmed planet   69.90094791777612
+Total number of confirmed exoplanets : 10
+Total number of false planets : 21
+Total number of planets which are candidate and not confirmed: 6
+File name kplr005983623.txt.out1 contains data for confirmed planet   76.76799125963937
+File name kplr001873918.txt.out1 contains data for confirmed planet   78.07330382847077
+File name kplr003323887.txt.out1 contains data for false planet  0.0
+File name kplr002438502.txt.out1 contains data for false planet  0.0
+File name kplr001026957.txt.out1 contains data for candidate planet   36.39170610773045
+File name kplr002438513.txt.out1 contains data for false planet  6.177586752149038
+File name kplr00835522.txt.out1 contains data for confirmed planet   90.84712191115727
+File name kplr006541924.txt.out1 contains data for confirmed planet   78.01782673363368
+File name kplr001145242.txt.out1 contains data for false planet  8.311688311688311
+File name kplr007109675.txt.out1 contains data for candidate planet   10.518863674394058
+File name kplr001871056.txt.out1 contains data for false planet  0.36002999012701264
+File name kplr004572551.txt.out1 contains data for confirmed planet   100.0
+File name kplr002652461.txt.out1 contains data for confirmed planet   65.49093070366786
+File name kplr001223422.txt.out1 contains data for candidate planet   10.679611650485436
+File name kplr001725193.txt.out1 contains data for confirmed planet   71.43940625169294
+File name kplr003128793.txt.out1 contains data for false planet  8.274751133908886
+File name kplr002571238.txt.out1 contains data for false planet  0.0
+File name kplr001572353.txt.out1 contains data for confirmed planet   70.56277056277057
+File name kplr003231341.txt.out1 contains data for false planet  0.0
+File name kplr006791628.txt.out1 contains data for candidate planet   45.8030407556782
+File name kplr007625314.txt.out1 contains data for candidate planet   54.04517001552185
+File name kplr000757450.txt.out1 contains data for candidate planet   15.333009791886724
+File name kplr004077526.txt.out1 contains data for false planet  0.0
+File name kplr001076281.txt.out1 contains data for false planet  6.258503401360545
+File name kplr001786321.txt.out1 contains data for confirmed planet   67.21976253572772
+File name kplr003671111.txt.out1 contains data for candidate planet   10.197368421052632
+File name kplr002444412.txt.out1 contains data for false planet  0.023012226173066787
+File name kplr003632418.txt.out1 contains data for candidate planet   41.980156217014994
+File name kplr003554600.txt.out1 contains data for false planet  0.8821533589685592
+File name kplr001571511.txt.out1 contains data for false planet  0.0
+File name kplr003853673.txt.out1 contains data for candidate planet   48.631531327753905
+File name kplr00382474.txt.out1 contains data for false planet  0.0
+File name kplr003340312.txt.out1 contains data for candidate planet   48.642840986202216
+File name kplr003657881.txt.out1 contains data for confirmed planet   61.24115105267997
+File name kplr003832474.txt.out1 contains data for false planet  0.0
+File name kplr002162635.txt.out1 contains data for false planet  0.39195017481868594
+File name kplr007455287.txt.out1 contains data for confirmed planet   69.90094791777612
+Total number of confirmed exoplanets : 11
+Total number of false planets : 16
+Total number of planets which are candidate and not confirmed: 10
